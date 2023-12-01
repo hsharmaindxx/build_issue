@@ -1,0 +1,34 @@
+{
+	"name": "@canvasjs/angular-stockcharts",
+	"version": "1.0.0",
+	"description": "CanvasJS Angular StockCharts",
+	"keywords": [
+		"canvasjs",
+		"canvasjs angular stockcharts",
+		"angular stockcharts",
+		"angular financial chart",
+		"high performance stock chart",
+		"angularjs stockcharts",
+		"canvasjs stockcharts"
+	],
+	"author": "fenopix",
+	"license": "SEE LICENSE IN <LICENSE>",
+	"homepage": "https://canvasjs.com/angular-charts/",
+	"peerDependencies": {
+		"@angular/common": ">=12.0.0",
+		"@angular/core": ">=12.0.0"
+	},
+	"dependencies": {
+		"tslib": "^1.10.0"
+	},
+	"main": "bundles/angular-stockcharts.umd.js",
+	"module": "fesm5/angular-stockcharts.js",
+	"es2015": "fesm2015/angular-stockcharts.js",
+	"esm5": "esm5/angular-stockcharts.js",
+	"esm2015": "esm2015/angular-stockcharts.js",
+	"fesm5": "fesm5/angular-stockcharts.js",
+	"fesm2015": "fesm2015/angular-stockcharts.js",
+	"typings": "angular-stockcharts.d.ts",
+	"metadata": "angular-stockcharts.metadata.json",
+	"sideEffects": false
+}
